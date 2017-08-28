@@ -1,0 +1,22 @@
+{
+  "name": "tdd_test",
+  "version": "1.0.0",
+  "description": "aritGeo tdd-test ",
+  "main": "src/main.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha src/main.js"
+  },
+  "keywords": [
+    "tdd",
+    "javascript"
+  ],
+  "author": "uche mukolo",
+  "license": "ISC",
+  "dependencies": {
+    "chai": "^4.1.1",
+    "mocha": "^3.5.0"
+  }
+}
