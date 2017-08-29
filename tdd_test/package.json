@@ -7,7 +7,7 @@
     "test": "test"
   },
   "scripts": {
-    "test": "mocha src/main.js"
+    "test": "mocha test/test.js"
   },
   "keywords": [
     "tdd",
